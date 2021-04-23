@@ -2,9 +2,9 @@
 
 Основные тезисы: критерии качества / риски / constrains copy
 
-[ISO-25010|https://iso25000.com/index.php/en/iso-25000-standards/iso-25010] (replace ISO/IEC 9126)
+[ISO-25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010) replace ISO/IEC 9126
 
-
+![NFR schema](https://github.com/scorpioa/architecture/blob/main/NFR.png)
 
 - Functional suitability
 	- completness
